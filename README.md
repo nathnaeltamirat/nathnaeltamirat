@@ -3,7 +3,7 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 
 ---
 
-###About Me! 😎
+### About Me! 😎
 - 🔭 I’m currently working on Fullstack Web Development.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on projects on web and UI/UX.
@@ -43,6 +43,7 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 </span>
+
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40"/>
 </span>
