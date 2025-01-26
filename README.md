@@ -119,5 +119,4 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 - Exploring new technologies and frameworks
 - Collaborating in community-driven learning environments
 - Designing user-centric interfaces and enhancing user experience
-- Reading about AI advancements and their real-world applications
 - Fitness and staying active with regular exercise
