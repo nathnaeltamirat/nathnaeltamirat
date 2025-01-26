@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/nathnael-tamirat/">
     <img src="https://i.ibb.co/84HcHPx/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" 
          alt="Nathnael Tamirat" 
-         style="width: 100%; height: 150px; border-radius: 15px;"/>
+         style="width: 100%; height: 150px; border-radius: 45px;"/>
   </a>
 </div>
 
