@@ -13,28 +13,67 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 ---
 
 <h2> :hammer_and_wrench: Languages and Tech Stack</h2>
-<div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="C++" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/></div>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></div>
-</div>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="C++" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+</span>
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</span>
+
 
 
 ## Some Projects
