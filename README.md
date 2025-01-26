@@ -1,9 +1,9 @@
-# Hi there! 👋
+<h1 align = "center" >Hi there! 👋</h1>
 I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childhood, so I consider myself lucky to work on something I love and enjoy. Currently, I am an IBM Certified full-stack developer and a Google UX-certified UI designer. My strengths lie in my flexibility and commitment.
 
 ---
 
-## About Me
+<h1>About Me</h1>
 - 🔭 I’m currently working on Fullstack Web Development.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on projects on web and UI/UX.
@@ -13,7 +13,7 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 ---
 
 <h2> :hammer_and_wrench: Languages and Tech Stack</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div>
   <div><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="40"/></div>
   <div><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/></div>
   <div><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40"/></div>
