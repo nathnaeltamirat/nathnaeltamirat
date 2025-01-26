@@ -3,7 +3,7 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 
 ---
 
-<h1>About Me</h1>
+<h1>About Me! 😎</h1>
 - 🔭 I’m currently working on Fullstack Web Development.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on projects on web and UI/UX.
