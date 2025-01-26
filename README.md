@@ -1,6 +1,7 @@
-<h1 align = "center" >Hi there! 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 
-[Nathnael Tamirat](https://i.ibb.co/84HcHPx/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png)
+[![Nathnael Tamirat](https://i.ibb.co/84HcHPx/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png)](https://i.ibb.co/84HcHPx/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png)
+
 I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childhood, so I consider myself lucky to work on something I love and enjoy. Currently, I am an IBM Certified full-stack developer and a Google UX-certified UI designer. My strengths lie in my flexibility and commitment.
 
 ---
