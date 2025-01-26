@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/nathnael-tamirat/">
-    <img src="https://i.ibb.co/84HcHPx/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Nathnael Tamirat" style="width: 100%; height: 100px;"/>
+    <img src="https://i.ibb.co/84HcHPx/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Nathnael Tamirat" style="width: 100%; height: 150px;"/>
   </a>
 </div>
 
