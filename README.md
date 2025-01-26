@@ -1,15 +1,18 @@
-<h1 align = "center">## Hi there! 👋 </h1>
-<h2 align = "center">I'm Nathnael Tamirat Woldemariam a fullstack developer and A2SVIAN</h2>
+<h1 align="center">Hi there! 👋 </h1>
+<h2 align="center">I'm Nathnael Tamirat Woldemariam, a Fullstack Developer and A2SVIAN</h2>
+
 <br>
-<h1>About Me! 😎</h1>
+
+<h2 align="center">:hammer_and_wrench: Languages and Tech Stack</h2>
+### About Me
 - 🔭 I’m currently working on Fullstack Web Development.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on projects on web and UI/UX.
 - 💬 Ask me about anything related to tech.
-- 📫 How to reach me: [nathnaeltamirat3@gmail.com](mailto:nathnaeltamirat3@gmail.com) [linkedin](https://www.linkedin.com/in/nathnael-tamirat/).
+- 📫 How to reach me: [nathnaeltamirat3@gmail.com](mailto:nathnaeltamirat3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nathnael-tamirat/).
 <br>
-<h2> :hammer_and_wrench: Languages and Tech Stack</h2>
-<div>
+
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
@@ -50,7 +53,6 @@
 - **[Mail](https://github.com/nathnaeltamirat/CS50W/tree/main/mail)**:  
   A mail service developed as part of the CS50W Harvard course project, utilizing Django for backend logic and a clean, user-friendly interface.
 
-
 ### Certifications
 - **[IBM Fullstack Developer](https://www.coursera.org/account/accomplishments/professional-cert/G3DGLFTAZCN0)**:  
   Comprehensive certification covering frontend, backend, cloud computing, and deployment, earned through Coursera.
@@ -75,10 +77,9 @@
   Addis Ababa Science and Technology University  
   Expected Year of Graduation: 2028
 
-
 ### Community
 - **Core Team Member of AASTU Software Engineering Association (Technical Team)**:  
-Meamber of technical initiatives and projects of the Software Engineering Association at Addis Ababa Science and Technology University.
+  Member of technical initiatives and projects of the Software Engineering Association at Addis Ababa Science and Technology University.
 
 - **African to Silicon Valley (A2SV) - Student**:  
   Engaged in the A2SV program to improve problem-solving skills and bridge the gap between African talent and global tech opportunities.
@@ -94,4 +95,3 @@ Meamber of technical initiatives and projects of the Software Engineering Associ
 - Designing user-centric interfaces and enhancing user experience  
 - Reading about AI advancements and their real-world applications  
 - Fitness and staying active with regular workouts
-
