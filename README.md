@@ -1,17 +1,14 @@
 <h1 align = "center">## Hi there! 👋 </h1>
 <h2 align = "center">I'm Nathnael Tamirat Woldemariam a fullstack developer and A2SVIAN</h2>
-
-
 <br>
-
-<h2> :hammer_and_wrench: Languages and Tech Stack</h2>
-### About Me
+<h1>About Me! 😎</h1>
 - 🔭 I’m currently working on Fullstack Web Development.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on projects on web and UI/UX.
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: [nathnaeltamirat3@gmail.com](mailto:nathnaeltamirat3@gmail.com) [linkedin](https://www.linkedin.com/in/nathnael-tamirat/).
 <br>
+<h2> :hammer_and_wrench: Languages and Tech Stack</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
