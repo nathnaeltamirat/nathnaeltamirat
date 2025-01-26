@@ -43,7 +43,7 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 </span>
-
+<br>
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40"/>
 </span>
