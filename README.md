@@ -33,9 +33,9 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
 </span>
-<span style="padding: 5px; background-color: white;">
+<!-- <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-</span>
+</span> -->
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="60" height="60"/>
 </span>
@@ -70,12 +70,12 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="60" height="60"/>
 </span>
-<span style="padding: 5px; background-color: white;">
+<!-- <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
 </span>
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/>
-</span>
+</span> -->
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/>
 </span>
