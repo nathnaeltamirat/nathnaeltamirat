@@ -86,9 +86,9 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 
 
 ## Some Projects
-- [X Clone (Mini-Version)](https://github.com/nathnaeltamirat/CodeAlpha_Social-Media-Platform): Developed a social media application as an intern at CodeAlpha, replicating the major features and behaviors of X (formerly Twitter).
-- [E-commerce](https://github.com/nathnaeltamirat/CodeAlpha_Simple-E-commerce-Store): Built an e-commerce application using Django to handle product listing, cart management, and order processing.
-- [Mail](https://github.com/nathnaeltamirat/CS50W/tree/main/mail): A mail service developed as part of the CS50W Harvard course project, utilizing Django for backend logic and a clean, user-friendly interface.
+- [TibebNet - Frontend](https://github.com/nathnaeltamirat/TibebNet_frontend) [TibebNet - Backend](https://github.com/nathnaeltamirat/TibebNet_backend): AI-integrated platform designed to deliver accurate event information and valuable content to users.
+- [E-commerce](https://github.com/nathnaeltamirat/CodeAlpha_Simple-E-commerce-Store): Built an e-commerce application using Django to handle product listing, cart management, and order processing during internship at codeAlpha.
+
 
 ---
 
