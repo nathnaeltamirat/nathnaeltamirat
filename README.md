@@ -7,7 +7,7 @@
   </a>
 </div>
 
-I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childhood, so I consider myself lucky to work on something I love and enjoy. Currently, I am an IBM Certified full-stack developer and a Google UX-certified UI designer. My strengths lie in my flexibility and commitment.
+I am Nathnael Tamirat. The tech field has been my passion since childhood, so I consider myself lucky to work on something I love and enjoy. Currently, I am an IBM Certified full-stack developer. My strengths lie in my flexibility and commitment.
 
 ---
 
@@ -103,27 +103,31 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
 </span>
 
+## Profesional Experiance
+### Eskalate
+Led a team of 5 frontend developers to build the A2SV Platform, creating 20+ responsive pages and making layouts consistent across devices  
+Engineered authentication and role-based access control in Next.js, securing 100% of protected routes and preventing unauthorized access  
+Automated bookmark workflow with Cypress, eliminating manual multi-step testing (login, API call, and UI validation) and enabling repeatable execution in under 20 seconds
 
 
 ## Some Projects
-- [TibebNet - Frontend](https://github.com/nathnaeltamirat/TibebNet_frontend) [TibebNet - Backend](https://github.com/nathnaeltamirat/TibebNet_backend): AI-integrated platform designed to deliver accurate event information and valuable content to users.
-- [E-commerce](https://github.com/nathnaeltamirat/CodeAlpha_Simple-E-commerce-Store): Built an e-commerce application using Django to handle product listing, cart management, and order processing during internship at codeAlpha.
-
-
+- [InvoMind - Fullstack](https://github.com/nathnaeltamirat/Smart_Invoice_Parser-AI-Powered):  
+Built a full-stack app with a REST API and an AI feature that scored 200+ user posts (0–100) based on quality, helping highlight the most useful content.
+Incorporated Gemini to automatically summarize and format data, producing structured output for 100% of processed documents.  
+Added OCR with Tesseract to pull invoice details, plus 15+ backend APIs to handle the main app features.
+- [Habeshan - Fullstack](https://github.com/nathnaeltamirat/CodeAlpha_Simple-E-commerce-Store):
+Developed a responsive e-commerce website for a local store, offering customers 4 core features with a smooth user experience  
+Implemented real-time inventory updates for product listings across 3 categories and 4 sections, enhancing navigation and overall shopping experience  
+Deployed an application with 11 URL routes and database management, delivering reliable performance and secure operations
 ---
 
 ## Certifications
 - [IBM Fullstack Developer](https://www.coursera.org/account/accomplishments/professional-cert/G3DGLFTAZCN0): Comprehensive certification covering frontend, backend, cloud computing, and deployment, earned through Coursera.
-- [Google UX Design](https://www.coursera.org/account/accomplishments/professional-cert/B0HCD1NBHG19): Professional certification focusing on user research, wireframing, prototyping, and responsive design principles.
-- [Web Design for Everybody: Basics of Web Development and Coding](https://www.coursera.org/account/accomplishments/specialization/EVWMDMRXAN8Z): A specialization from the University of Michigan teaching the foundational concepts of web development using HTML, CSS, and JavaScript.
-- [ALX AICE - AI Career Essentials](https://intranet.alxswe.com/certificates/G6xzPFYEM3): A program from ALX Africa introducing AI concepts, applications, and career pathways in artificial intelligence.
-- [CS50 – Introduction to Computer Science](https://certificates.cs50.io/72d146c3-0b45-4689-9ce2-07415d5444d1): Harvard University’s foundational course in computer science, covering programming concepts, data structures, algorithms, and web development.
 
 ---
-
 ## Education
 - [Bachelor's Degree in Software Engineering](http://www.aastu.edu.et/): Addis Ababa Science and Technology University (Expected Year of Graduation: 2028)
-
+- [Datastructure and Algorithm](https://www.a2sv.org): African to Silicon Valley(A2SV) - Backed by Google Twice!!
 ---
 
 ## Community
