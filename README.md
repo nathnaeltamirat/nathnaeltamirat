@@ -105,20 +105,20 @@ I am Nathnael Tamirat. The tech field has been my passion since childhood, so I 
 
 ## Profesional Experiance
 ### Eskalate (Internship)
-*Led a team of 5 frontend developers to build the A2SV Platform, creating 20+ responsive pages and making layouts consistent across devices  
-*Engineered authentication and role-based access control in Next.js, securing 100% of protected routes and preventing unauthorized access  
-*Automated bookmark workflow with Cypress, eliminating manual multi-step testing (login, API call, and UI validation) and enabling repeatable execution in under 20 seconds
+* Led a team of 5 frontend developers to build the A2SV Platform, creating 20+ responsive pages and making layouts consistent across devices  
+* Engineered authentication and role-based access control in Next.js, securing 100% of protected routes and preventing unauthorized access  
+* Automated bookmark workflow with Cypress, eliminating manual multi-step testing (login, API call, and UI validation) and enabling repeatable execution in under 20 seconds
 
 
 ## Some Projects
 - [InvoMind - Fullstack](https://github.com/nathnaeltamirat/Smart_Invoice_Parser-AI-Powered):  
-* Built a full-stack app with a REST API and an AI feature that scored 200+ user posts (0–100) based on quality, helping highlight the most useful content.
-* Incorporated Gemini to automatically summarize and format data, producing structured output for 100% of processed documents.  
-* Added OCR with Tesseract to pull invoice details, plus 15+ backend APIs to handle the main app features.
+  * Built a full-stack app with a REST API and an AI feature that scored 200+ user posts (0–100) based on quality, helping highlight the most useful content.
+  * Incorporated Gemini to automatically summarize and format data, producing structured output for 100% of processed documents.  
+  * Added OCR with Tesseract to pull invoice details, plus 15+ backend APIs to handle the main app features.
 - [Habeshan - Fullstack](https://github.com/nathnaeltamirat/CodeAlpha_Simple-E-commerce-Store):
-* Developed a responsive e-commerce website for a local store, offering customers 4 core features with a smooth user experience  
-* Implemented real-time inventory updates for product listings across 3 categories and 4 sections, enhancing navigation and overall shopping experience  
-* Deployed an application with 11 URL routes and database management, delivering reliable performance and secure operations
+  * Developed a responsive e-commerce website for a local store, offering customers 4 core features with a smooth user experience  
+  * Implemented real-time inventory updates for product listings across 3 categories and 4 sections, enhancing navigation and overall shopping experience  
+  * Deployed an application with 11 URL routes and database management, delivering reliable performance and secure operations
 ---
 
 ## Certifications
