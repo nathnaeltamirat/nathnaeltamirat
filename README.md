@@ -13,14 +13,37 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 
 ### About Me! 😎
 - 🔭 I’m currently working on Fullstack Web Development.
-- 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on projects on web and UI/UX.
+- 👯 I’m looking to collaborate on projects on web.
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: [nathnaeltamirat3@gmail.com](mailto:nathnaeltamirat3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nathnael-tamirat/)
 
 ---
 
 <h2> :hammer_and_wrench: Languages and Tech Stack</h2>
+<!-- Next.js -->
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
+       alt="Next.js" width="60" height="60"/>
+</span>
+
+<!-- TailwindCSS -->
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
+       alt="TailwindCSS" width="60" height="60"/>
+</span>
+
+<!-- Cypress -->
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg"
+       alt="Cypress" width="60" height="60"/>
+</span>
+
+<!-- Jest -->
+<span style="padding: 5px; background-color: white;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"
+       alt="Jest" width="60" height="60"/>
+</span>
+
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="60" height="60"/>
 </span>
@@ -33,9 +56,9 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
 </span>
-<!-- <span style="padding: 5px; background-color: white;">
+<span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-</span> -->
+</span>
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="60" height="60"/>
 </span>
@@ -54,9 +77,6 @@ I am Nathnael Tamirat - A2SVIAN. The tech field has been my passion since childh
 <br>
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="60" height="60"/>
-</span>
-<span style="padding: 5px; background-color: white;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60"/>
 </span>
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
