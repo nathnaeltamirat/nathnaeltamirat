@@ -7,7 +7,7 @@
   </a>
 </div>
 
-I am Nathnael Tamirat. The tech field has been my passion since childhood, so I consider myself lucky to work on something I love and enjoy. Currently, I am an IBM Certified full-stack developer. My strengths lie in my flexibility and commitment.
+I am Nathnael Tamirat. The tech field has been my passion since childhood, so I consider myself lucky to work on something I love and enjoy. Currently, I am a developer. My strengths lie in my flexibility and commitment.
 
 ---
 
@@ -104,6 +104,11 @@ I am Nathnael Tamirat. The tech field has been my passion since childhood, so I 
 </span>
 
 ## Profesional Experiance
+### GDG On Campus AASTU
+Node.Js Mentor
+* Taught a Node.js course to 50+ mentees, covering core backend concepts, REST APIs, and asynchronous
+* Designed and prepared structured learning materials including slides, and hands-on projects
+* Supported the developer community through mentoring and knowledge sharing
 ### Eskalate (Internship)
 * Led a team of 5 frontend developers to build the A2SV Platform, creating 20+ responsive pages and making layouts consistent across devices  
 * Engineered authentication and role-based access control in Next.js, securing 100% of protected routes and preventing unauthorized access  
@@ -115,10 +120,12 @@ I am Nathnael Tamirat. The tech field has been my passion since childhood, so I 
   * Built a full-stack app with a REST API and an AI feature that scored 200+ user posts (0–100) based on quality, helping highlight the most useful content.
   * Incorporated Gemini to automatically summarize and format data, producing structured output for 100% of processed documents.  
   * Added OCR with Tesseract to pull invoice details, plus 15+ backend APIs to handle the main app features.
-- [Habeshan - Fullstack](https://github.com/nathnaeltamirat/CodeAlpha_Simple-E-commerce-Store):
-  * Developed a responsive e-commerce website for a local store, offering customers 4 core features with a smooth user experience  
-  * Implemented real-time inventory updates for product listings across 3 categories and 4 sections, enhancing navigation and overall shopping experience  
-  * Deployed an application with 11 URL routes and database management, delivering reliable performance and secure operations
+- [NewsBrief](https://github.com/nathnaeltamirat/news-brief-frontend)
+AI powered News Platform
+* Created the frontend as a team for a news platform that gathers and summarizes articles from diverse social
+media channels and news sites, organizing them by topic for easier browsing.
+* Integrated a Gemini AI chatbot and designed responsive layouts with support for 2 languages, handling
+more than 80 pull requests as part of a 13-member team to enhance accessibility and user experience.
 ---
 
 ## Certifications
@@ -131,9 +138,9 @@ I am Nathnael Tamirat. The tech field has been my passion since childhood, so I 
 ---
 
 ## Community
-- Core Team Member of AASTU Software Engineering Association (Technical Team): Member of technical initiatives and projects of the Software Engineering Association at Addis Ababa Science and Technology University.
-- African to Silicon Valley (A2SV) - Student: Engaged in the A2SV program to improve problem-solving skills and bridge the gap between African talent and global tech opportunities.
-- Google Developer Student Club (GDSC) at AASTU - Student: Participate in Google-supported events and initiatives at the campus, focusing on community-driven learning and development.
+- African to Silicon Valley (A2SV) - Graduated : Engaged in the A2SV program to improve problem-solving skills and bridge the gap between African talent and global tech opportunities.
+- Google Developer Student Club (GDSC) at AASTU - Mentor : Taught a Node.js course to 50+ mentees, covering core backend concepts, REST APIs, and asynchronous
+programming
 
 ---
 
