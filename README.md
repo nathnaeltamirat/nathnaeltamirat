@@ -121,15 +121,11 @@ Node.Js Mentor
   * Incorporated Gemini to automatically summarize and format data, producing structured output for 100% of processed documents.  
   * Added OCR with Tesseract to pull invoice details, plus 15+ backend APIs to handle the main app features.
 - [NewsBrief](https://github.com/nathnaeltamirat/news-brief-frontend)
-AI powered News Platform
-* Created the frontend as a team for a news platform that gathers and summarizes articles from diverse social
-media channels and news sites, organizing them by topic for easier browsing.
-* Integrated a Gemini AI chatbot and designed responsive layouts with support for 2 languages, handling
-more than 80 pull requests as part of a 13-member team to enhance accessibility and user experience.
----
-
-## Certifications
-- [IBM Fullstack Developer](https://www.coursera.org/account/accomplishments/professional-cert/G3DGLFTAZCN0): Comprehensive certification covering frontend, backend, cloud computing, and deployment, earned through Coursera.
+  AI powered News Platform
+  * Created the frontend as a team for a news platform that gathers and summarizes articles from diverse social
+  media channels and news sites, organizing them by topic for easier browsing.
+  * Integrated a Gemini AI chatbot and designed responsive layouts with support for 2 languages, handling
+  more than 80 pull requests as part of a 13-member team to enhance accessibility and user experience.
 
 ---
 ## Education
