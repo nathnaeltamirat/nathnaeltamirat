@@ -1,23 +1,20 @@
 <h1 align="center">Hi there! 👋</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/nathnael-tamirat/">
-    <img src="https://i.ibb.co/84HcHPx/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" 
+    <img src="https://i.ibb.co/84HcHPx/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png"> 
          alt="Nathnael Tamirat" 
          style="width: 100%; height: auto; border-radius: 20px;"/>
   </a>
 </div>
 
-I am Nathnael Tamirat. The tech field has been my passion since childhood, so I consider myself lucky to work on something I love and enjoy. Currently, I am a developer. My strengths lie in my flexibility and commitment.
 
----
 
 ### About Me! 😎
-- 🔭 I’m currently working on Fullstack Web Development.
-- 👯 I’m looking to collaborate on projects on web.
-- 💬 Ask me about anything related to tech.
-- 📫 How to reach me: [nathnaeltamirat3@gmail.com](mailto:nathnaeltamirat3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nathnael-tamirat/)
-
----
+I build full-stack systems and ship real products.  My work spans secure authentication services, AI-integrated apps, and full-stack projects built with real teams.
+ 
+Comfortable across Node.js, Express, PostgreSQL, React, and TypeScript, with hands-on experience integrating AI features.
+ 
+Currently building new projects solo, while open to full-stack / AI client work.
 
 <h2> :hammer_and_wrench: Languages and Tech Stack</h2>
 <!-- Next.js -->
@@ -40,8 +37,8 @@ I am Nathnael Tamirat. The tech field has been my passion since childhood, so I 
 
 <!-- Jest -->
 <span style="padding: 5px; background-color: white;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"
-       alt="Jest" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/vitest-plain.svg"
+       alt="Vitest" width="60" height="60"/>
 </span>
 
 <span style="padding: 5px; background-color: white;">
@@ -59,9 +56,7 @@ I am Nathnael Tamirat. The tech field has been my passion since childhood, so I 
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
 </span>
-<span style="padding: 5px; background-color: white;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="60" height="60"/>
-</span>
+
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" width="60" height="60"/>
 </span>
@@ -99,11 +94,19 @@ I am Nathnael Tamirat. The tech field has been my passion since childhood, so I 
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/>
 </span>
-<span style="padding: 5px; background-color: white;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
-</span>
+
 
 ## Profesional Experiance
+
+### Mahibere Kidusan - AASTU GibiGubae
+Backend Developer
+* Built a secure SSO authentication microservice using JWT (RS256) with access/refresh token lifecycle,
+HTTP-only cookie sessions, and robust request input validation using Zod to enforce schema-safe API
+contracts.
+* Added structured audit logging for security/auth events and a centralized error service for consistent HTTP
+error handling and improved observability.
+* Built comprehensive integration tests using Vitest + Supertest covering authentication flows, validation,
+error handling, and role-based access control
 ### GDG On Campus AASTU
 Node.Js Mentor
 * Taught a Node.js course to 50+ mentees, covering core backend concepts, REST APIs, and asynchronous
@@ -124,8 +127,10 @@ Node.Js Mentor
   AI powered News Platform
   * Created the frontend as a team for a news platform that gathers and summarizes articles from diverse social
   media channels and news sites, organizing them by topic for easier browsing.
-  * Integrated a Gemini AI chatbot and designed responsive layouts with support for 2 languages, handling
-  more than 80 pull requests as part of a 13-member team to enhance accessibility and user experience.
+  * Handled request/response forwarding, JSON/non-JSON fallback, and error handling for the chat feature,
+    connecting the chat UI to a Gemini-powered backend, as part of a 13-member team (80+ pull requests)
+    building responsive layouts with support for 2 languages.
+
 
 ---
 ## Education
@@ -138,12 +143,3 @@ Node.Js Mentor
 - Google Developer Student Club (GDSC) at AASTU - Mentor : Taught a Node.js course to 50+ mentees, covering core backend concepts, REST APIs, and asynchronous
 programming
 
----
-
-## Interests
-- Solving algorithmic challenges and improving competitive programming skills
-- Building innovative and scalable web applications
-- Exploring new technologies and frameworks
-- Collaborating in community-driven learning environments
-- Designing user-centric interfaces and enhancing user experience
-- Fitness and staying active with regular exercise
