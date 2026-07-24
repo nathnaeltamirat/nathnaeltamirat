@@ -327,40 +327,36 @@ Currently building new projects independently while open to full-stack and AI-fo
 
 <p align="left">
 
+<!-- LinkedIn -->
 <span style="display:inline-block;padding:8px;margin:5px;background:white;border-radius:10px;">
-<a href="https://www.linkedin.com/in/nathnael-tamirat/" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin"
-width="40"
-height="40"
-alt="LinkedIn"/>
-</a>
+  <a href="https://www.linkedin.com/in/nathnael-tamirat/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+         width="40"
+         height="40"
+         alt="LinkedIn"/>
+  </a>
 </span>
 
+
+<!-- X -->
 <span style="display:inline-block;padding:8px;margin:5px;background:white;border-radius:10px;">
-<a href="https://github.com/nathnaeltamirat" target="_blank">
-<img src="https://cdn.simpleicons.org/github"
-width="40"
-height="40"
-alt="GitHub"/>
-</a>
+  <a href="https://x.com/nathnael_tamirat" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000"
+         width="40"
+         height="40"
+         alt="X"/>
+  </a>
 </span>
 
-<span style="display:inline-block;padding:8px;margin:5px;background:white;border-radius:10px;">
-<a href="https://t.me/nathnael_tamirat" target="_blank">
-<img src="https://cdn.simpleicons.org/telegram"
-width="40"
-height="40"
-alt="Telegram"/>
-</a>
-</span>
 
+<!-- Telegram -->
 <span style="display:inline-block;padding:8px;margin:5px;background:white;border-radius:10px;">
-<a href="https://x.com/nathnael_tamirat" target="_blank">
-<img src="https://cdn.simpleicons.org/x"
-width="40"
-height="40"
-alt="X"/>
-</a>
+  <a href="https://t.me/nathnael_tamirat" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4"
+         width="40"
+         height="40"
+         alt="Telegram"/>
+  </a>
 </span>
 
 </p>
