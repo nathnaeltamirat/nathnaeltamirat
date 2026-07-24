@@ -330,8 +330,7 @@ Currently building new projects independently while open to full-stack and AI-fo
 <!-- LinkedIn -->
 <span style="display:inline-block;padding:8px;margin:5px;background:white;border-radius:10px;">
   <a href="https://www.linkedin.com/in/nathnael-tamirat/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin"
-         width="40"
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
          height="40"
          alt="LinkedIn"/>
   </a>
