@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/nathnael-tamirat/">
-    <img src="https://i.ibb.co/84HcHPx/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png"> 
+    <img src="https://i.ibb.co/84HcHPx/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" 
          alt="Nathnael Tamirat" 
          style="width: 100%; height: auto; border-radius: 20px;"/>
   </a>
@@ -35,12 +35,18 @@ Currently building new projects solo, while open to full-stack / AI client work.
        alt="Cypress" width="60" height="60"/>
 </span>
 
-<!-- Jest -->
+<!-- Vitest -->
 <span style="padding: 5px; background-color: white;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/vitest-plain.svg"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg"
        alt="Vitest" width="60" height="60"/>
 </span>
-
+<!--Supertest-->
+  <span style="padding: 5px; background-color: white;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
+       alt="Supertest"
+       width="60"
+       height="60"/>
+</span>
 <span style="padding: 5px; background-color: white;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="60" height="60"/>
 </span>
