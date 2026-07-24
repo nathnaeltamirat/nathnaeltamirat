@@ -22,169 +22,213 @@ Currently building new projects independently while open to full-stack and AI-fo
 
 <h2>🛠️ Languages and Tech Stack</h2>
 
-
 <!-- TypeScript -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-alt="TypeScript" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+       alt="TypeScript"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- JavaScript -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-alt="JavaScript" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+       alt="JavaScript"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- React -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-alt="React" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+       alt="React"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- Next.js -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-alt="Next.js" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+       alt="Next.js"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- TailwindCSS -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
-alt="Tailwind CSS" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+       alt="Tailwind CSS"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- HTML -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-alt="HTML5" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+       alt="HTML5"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- CSS -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-alt="CSS3" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+       alt="CSS3"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- Node.js -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-alt="Node.js" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+       alt="Node.js"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- Express -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-alt="Express" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+       alt="Express"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- Django -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"
-alt="Django" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"
+       alt="Django"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- Flask -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
-alt="Flask" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+       alt="Flask"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- PostgreSQL -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-alt="PostgreSQL" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+       alt="PostgreSQL"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- SQLite -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
-alt="SQLite" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
+       alt="SQLite"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- Bootstrap -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-alt="Bootstrap" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+       alt="Bootstrap"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- Sass -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-alt="Sass" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+       alt="Sass"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- C -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-alt="C" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+       alt="C"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- C++ -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-alt="C++" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+       alt="C++"
+       width="60"
+       height="60"/>
 </span>
 
 
-<!-- Testing -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg"
-alt="Vitest" width="60" height="60"/>
+<!-- Vitest -->
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg"
+       alt="Vitest"
+       width="60"
+       height="60"/>
 </span>
 
 
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
-alt="Jest" width="60" height="60"/>
+<!-- Jest -->
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
+       alt="Jest"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- Git -->
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-alt="Git" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+       alt="Git"
+       width="60"
+       height="60"/>
 </span>
 
 
 <!-- Docker -->
 <!--
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-alt="Docker" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+       alt="Docker"
+       width="60"
+       height="60"/>
 </span>
 -->
 
 
 <!-- Kubernetes -->
 <!--
-<span style="padding:5px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"
-alt="Kubernetes" width="60" height="60"/>
+<span style="display:inline-block;padding:10px;margin:5px;background:white;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"
+       alt="Kubernetes"
+       width="60"
+       height="60"/>
 </span>
 -->
 
 
-Testing Libraries:
+### Testing Libraries
 - Vitest
 - Supertest
 - Cypress
----
+
 
 # Professional Experience
 
@@ -282,15 +326,41 @@ Testing Libraries:
 ## Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nathnael-tamirat/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
 
-  <a href="https://github.com/nathnaeltamirat" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
+<span style="display:inline-block;padding:8px;margin:5px;background:white;border-radius:10px;">
+<a href="https://www.linkedin.com/in/nathnael-tamirat/" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin"
+width="40"
+height="40"
+alt="LinkedIn"/>
+</a>
+</span>
 
-  <a href="https://t.me/nathnael_tamirat" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram" width="40" height="40" alt="Telegram"/>
-  </a>
+<span style="display:inline-block;padding:8px;margin:5px;background:white;border-radius:10px;">
+<a href="https://github.com/nathnaeltamirat" target="_blank">
+<img src="https://cdn.simpleicons.org/github"
+width="40"
+height="40"
+alt="GitHub"/>
+</a>
+</span>
+
+<span style="display:inline-block;padding:8px;margin:5px;background:white;border-radius:10px;">
+<a href="https://t.me/nathnael_tamirat" target="_blank">
+<img src="https://cdn.simpleicons.org/telegram"
+width="40"
+height="40"
+alt="Telegram"/>
+</a>
+</span>
+
+<span style="display:inline-block;padding:8px;margin:5px;background:white;border-radius:10px;">
+<a href="https://x.com/nathnael_tamirat" target="_blank">
+<img src="https://cdn.simpleicons.org/x"
+width="40"
+height="40"
+alt="X"/>
+</a>
+</span>
+
 </p>
