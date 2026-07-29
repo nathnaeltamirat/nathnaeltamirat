@@ -11,7 +11,7 @@
 
 ## About Me 😎
 
-I build full-stack systems
+I build full-stack systems and apps
 
 My work spans secure authentication services, AI-integrated applications, and full-stack projects built individually and with real teams.
 
