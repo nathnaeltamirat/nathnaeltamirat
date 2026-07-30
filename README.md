@@ -15,7 +15,7 @@ I build full-stack systems and apps
 
 My work spans secure authentication services, AI-integrated applications, and full-stack projects built individually and with real teams.
 
-Comfortable across TypeScript, JavaScript, React, Node.js, Express, PostgreSQL, and modern web technologies, with hands-on experience integrating AI features into applications.
+Currently Working on TypeScript, JavaScript, React, Node.js/Express, PostgreSQL, Prisma, and modern web technologies, with hands-on experience integrating AI features into applications.
 
 Currently building new projects independently while open to full-stack and AI-focused opportunities.
 
